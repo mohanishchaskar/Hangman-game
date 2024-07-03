@@ -1,0 +1,20 @@
+wor=["VONNEUMENN","NANDGATE","MOTHERBOARD","DEMULTIPLEXER","RAM","FLIPFLOP","INSTRUCTIONCODE","KILOBYTE","DECODER","ENCODER","ACCUMULATOR","ALGORITHM","ROM","ARCHITECTURE","INPUTDEVICE","CPU","MACHINE"]
+word_questions = {
+ "VONNEUMENN": "I developed the basic architecture of computer.Who am I?",
+ "NANDGATE": "I am building block used to implement any combinational logic circuit.Who am I?",
+ "MOTHERBOARD": "I am the circuit board on which chips and processor are placed.Who am I?",
+ "DEMULTIPLEXER": "I am a combinational logic circuit which sends data from a single source to two or more separate destinations.Who am I?",
+ "RAM": "I allows simultaneous write and read operations.Who am I?",
+ "FLIPFLOP": "I am circuit used to store one bit of data.Who am I?",
+ "INSTRUCTIONCODE": "I am a group of bits that tells the computer to perform a particular operation.Who am I?",
+ "KILOBYTE": "What does one thousand bytes represent?",
+ "DECODER": "I am a combinational logic circuit which converts binary information from n coded inputs to a maximum of 2n unique outputs.Who am I?",
+ "ENCODER": "I am a combinational logic circuit that change the binary information into N output lines.Who am I?",
+ "ACCUMULATOR": "I am a computer register who collects the result of computation.Who am I?",
+ "ALOGRITHM": "I am a step by step procedure to solve a problem.Who am I?",
+ "ROM": "I am Perment memory of a Computer.Who am I?",
+ "ARCHITECTURE":"I am orginization and inter connection of the various components of computer system.Who am I?",
+ "INPUTDEVICE": "I am a device used to fetch (or bring) instructions and data into a computer system.What am I Called?",
+ "CPU": "I am a Component who controls the Computer System.Who Am I?",
+ "MACHINE":"I am a CPU,What Language can I Understand?",
+}
